@@ -1,0 +1,31 @@
+Input: Generate a cover letter for a Management Consulting job at PwC.
+
+Output: Dear Recruiter,
+
+I had the opportunity to work closely with Jane Smith, an A.T. Kiley consultant in the Higher Education Practice, as a member of XYZ University's Presidential Search Committee. This was my first exposure to the consulting profession, and it was a perfect match for someone with my academic record, communication and leadership skills, and drive to succeed.
+
+I have shown initiative, creativity in problem-solving, and a commitment to building consensus and excellence throughout our college community during the last four years. As an intern in the Office of the U.S. Deputy Secretary of Education, I worked with the Senior Advising team to provide accurate, effective, and concise statistical and anecdotal data to a variety of constituents in order to support legislative proposals. I combined the written and oral skills I have gained from courses in American Studies and Government with quantitative and analytical training in a high-intensity environment.
+
+As Vice President of Academic Affairs for the Student Government Association and a student representative on several college committees (including the one which nominated the sixth President of XYZ University), I have learned: to use language precisely and effectively, to articulate well to a range of audiences, the value of integrity and persistence in working toward short- and long-term personal and institutional goals. The opportunity to effect positive change for a range of institutions is the most attractive aspect of consulting for me. Employees have described A.T. Kiley as "down to earth" and as having an "open culture."
+
+I feel lucky to have been part of a college community whose openness has allowed for measured risks and the candor necessary to achieve its goals, and I hope to begin my career in a similarly rigorous and collegial environment where can I learn from industry leaders. I look forward to exploring further my opportunities at A.T. Kiley and will call next week to see if it is possible to arrange an interview.
+
+Sincerely,
+
+Input: Generate a cover letter for a Management Consulting job at Goldman Sachs. 
+
+Output: Dear Hiring Manager,
+
+I would like to introduce myself as a candidate for the Management Consultant position at River Tech. As a well-educated and highly qualified candidate, I know I can bring dedication and results to River Tech.
+
+During my previous role as a Management Consultant at Retail Ocean, my responsibilities included performing research and collecting data, interviewing my clients' employees, stakeholders, and managers, facilitating focus groups and workshops, formulating presentations and proposals, presenting recommendations to the client, and maintaining open and clear communication with the client. Over the course of my five-year tenure, I helped over 200 clients in the United States, United Kingdom, and France. During my career, I have helped clients implement improved management strategies that have boosted company morale and increased sales. I strive to create a long-term relationship with each client.
+
+My bachelor's degree in business from Coral Springs University has proved to be invaluable during my career as a Management Consultant. My studies in business management, marketing, economics, finance, human resources management, accounting, and organization theory provided me with the knowledge I needed to be successful in this field. During my academic career, I grew my knowledge and my character. I gained valuable communication and time management skills. I pride myself in my ability to produce stellar work in a short period of time.
+
+Thank you for your time and consideration of me as a candidate for the Management Consultant role. I look forward to learning more about River Tech and its clients.
+
+Sincerely,
+
+Input: "Generate a cover letter for a Management Consulting job at Margera."
+
+Output:
