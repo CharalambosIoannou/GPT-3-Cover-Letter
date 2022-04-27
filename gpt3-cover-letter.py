@@ -4,8 +4,6 @@ import json
 ai.api_key = "YOUR_API_KEY_HERE"
 
 # Import text prompt
-
-# Import text prompt
 with open("prompt.txt") as pro:
 	prompt = pro.read()
 	
@@ -21,7 +19,7 @@ returns = ai.Completion.create(
     presence_penalty=0.9 # a number between 0 and 1. The higher this value the model will make a bigger effort in talking about new topics.
 )
 
-print(returns)
+
 text = returns['choices'][0]['text']
 
 print(text)
